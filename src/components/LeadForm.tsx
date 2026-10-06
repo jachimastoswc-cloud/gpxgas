@@ -31,7 +31,6 @@ const proion_options = [
   'Προπάνιο',
   'Υγραέριο θέρμανσης',
   'Υγραέριο κίνησης',
-  'Άλλο',
 ];
 
 const drastiriotita_options = [
