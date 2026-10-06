@@ -321,7 +321,7 @@ export default function LeadForm({ variant, title, subtitle }: LeadFormProps) {
                 />
               </div>
               <div>
-                <label htmlFor="topos" className="form-label">περιοχή που δραστηριοπιοίστε</label>
+                <label htmlFor="topos" className="form-label">Περιοχή στην οποία δραστηριοποιείσθε</label>
                 <input
                   id="topos"
                   type="text"
