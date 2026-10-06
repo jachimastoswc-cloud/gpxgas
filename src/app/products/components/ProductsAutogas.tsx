@@ -38,7 +38,7 @@ export default function ProductsAutogas() {
             </ul>
 
             <Link href="/contact?variant=reseller" className="btn-primary text-sm font-700" style={{ fontWeight: 700 }}>
-              Ζητήστε τιμοκατάλογο
+              Ζητήστε προσφορά
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
             </Link>
           </div>
