@@ -32,7 +32,7 @@ export default function HeroSection() {
 
           {/* H1 */}
           <h1 className="text-hero-xl text-white mb-6 drop-shadow-lg">
-            GPX GAS —<br />
+            GPX GAS<br />
             Υγραέρια Ελλάδος
           </h1>
 
